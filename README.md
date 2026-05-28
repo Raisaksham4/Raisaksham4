@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saksham Rai
 - 👀 I’m interested in learning new and treanding technologies
-- 🌱 I’m currently learning basics of DevOps
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... Instagram- @rai_saksham_
 - 😄 Pronouns: ... he/him
